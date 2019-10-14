@@ -1,6 +1,8 @@
 # Toolbar&Vertical Toolbar
 
-Inserire il video Toolbar&VerticalToolbar 3
+
+
+{% embed url="https://github.com/Sdifranc/DAC-Documentation/blob/master/Toolbar%26VerticalToolbar3.wmv" %}
 
 DAC's main features \(Toolbar\), shown in the following figure, are:
 

@@ -8,6 +8,8 @@ DAC is the user interface of DAC’s Design Studio. The DAC environment is a web
 
 {% embed url="https://bitbucket.org/decisyon/designsystem/downloads/Accessing\_DAC.mp4" %}
 
+{% embed url="https://bitbucket.org/decisyon/designsystem/downloads/Accessing\_DAC.mp4" %}
+
 
 
 You will then see your pages \(the pages that you have been granted access to\):
