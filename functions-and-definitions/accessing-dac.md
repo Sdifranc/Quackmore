@@ -10,10 +10,6 @@ DAC is the user interface of DAC’s Design Studio. The DAC environment is a web
 
 
 
-{% embed url="https://bitbucket.org/decisyon/designsystem/downloads/Accessing\_DAC.mp4" %}
-
-![](http://documents.decisyon.com/tomcat/manuals/user/ge/en/web/images/img5.jpg)
-
 You will then see your pages \(the pages that you have been granted access to\):
 
 Some of the key DAC functionality at your disposal while running in Predix is
@@ -37,7 +33,7 @@ The DAC interface consists of the following components:
 
 In the Home Page you can see all deployed applications in your Predix Cloud and associated with your group. If just one application has been associated with a user he will directly access the pages of the app after login.
 
-test
+
 
 
 
