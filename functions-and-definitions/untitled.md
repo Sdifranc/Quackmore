@@ -2,19 +2,6 @@
 
 The video below shows the principal DAC sections
 
-{% embed url="https://www.bitbucket.org/decisyon/manual/downloads/ToolbarAndVeerticalToolbar.mp4" %}
-{% embed url="https://www.bitbucket.org/decisyon/manual/downloads/AccessingDAC.mp4" %}
-
-
-
-
-
-
-
-
-
-
-
 DAC's main features \(Toolbar\), shown in the following figure, are:
 
 ![](../.gitbook/assets/toolbar.png)
@@ -43,10 +30,3 @@ It is possible to expand the main function area. Once expanded the main function
 * **Widget Designer** , to access the Widget Catalog that lists the widgets and libraries created by the user. \(This section is only visible to the administrator\).
 * **Administration**, which opens a panel that allows an administrator user to perform operations such as checking information about the application server and the users who are logged in, downloading the application logs etc. \(This section is only visible to the administrator\).
 * **Settings** contains the list for setting the DAC's Object \(This section is only visible to the administrator\).
-
-
-
-
-
-{% embed url="https://www.bitbucket.org/decisyon/manual/downloads/ToolbarAndVeerticalToolbar.mp4" %}
-
