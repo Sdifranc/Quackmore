@@ -1,14 +1,24 @@
 # Toolbar&Vertical Toolbar
 
+The video below shows the principal DAC sections
+
+{% embed url="https://www.bitbucket.org/decisyon/manual/downloads/ToolbarAndVeerticalToolbar.mp4" %}
 
 
-{% embed url="https://github.com/Sdifranc/DAC-Documentation/blob/master/Toolbar%26VerticalToolbar3.wmv" %}
+
+
+
+
+
+
+
+
 
 DAC's main features \(Toolbar\), shown in the following figure, are:
 
 ![](../.gitbook/assets/toolbar.png)
 
-* On the left, opens the **Vertical Toolbar** to selected the main functions . Decisyon logo allows you to **return to DAC’s home** page.
+On the left, opens the **Vertical Toolbar** to select the main functions. Decisyon logo allows you to **return to DAC’s home** page.
 
 The right side contains:
 
@@ -32,4 +42,10 @@ It is possible to expand the main function area. Once expanded the main function
 * **Widget Designer** , to access the Widget Catalog that lists the widgets and libraries created by the user. \(This section is only visible to the administrator\).
 * **Administration**, which opens a panel that allows an administrator user to perform operations such as checking information about the application server and the users who are logged in, downloading the application logs etc. \(This section is only visible to the administrator\).
 * **Settings** contains the list for setting the DAC's Object \(This section is only visible to the administrator\).
+
+
+
+
+
+{% embed url="https://www.bitbucket.org/decisyon/manual/downloads/ToolbarAndVeerticalToolbar.mp4" %}
 
