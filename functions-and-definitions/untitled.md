@@ -3,6 +3,7 @@
 The video below shows the principal DAC sections
 
 {% embed url="https://www.bitbucket.org/decisyon/manual/downloads/ToolbarAndVeerticalToolbar.mp4" %}
+{% embed url="https://www.bitbucket.org/decisyon/manual/downloads/AccessingDAC.mp4" %}
 
 
 
