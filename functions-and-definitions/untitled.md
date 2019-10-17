@@ -1,6 +1,13 @@
 # Toolbar&Vertical Toolbar
 
-The video below shows the principal DAC sections
+The DAC interface consists of the following components:
+
+* **Toolbar**: at the top of the interface and the shortcuts are available to access the user-related features associated with the DAC.
+* **Vertical Toolbar**: at the left of the page, You can access the commands for DAC's main features
+
+The video below shows the principal DAC sections.
+
+{% embed url="https://bitbucket.org/decisyon/manual/downloads/ToolbarAndVeerticalToolbar.mp4" %}
 
 DAC's main features \(Toolbar\), shown in the following figure, are:
 
@@ -30,3 +37,4 @@ It is possible to expand the main function area. Once expanded the main function
 * **Widget Designer** , to access the Widget Catalog that lists the widgets and libraries created by the user. \(This section is only visible to the administrator\).
 * **Administration**, which opens a panel that allows an administrator user to perform operations such as checking information about the application server and the users who are logged in, downloading the application logs etc. \(This section is only visible to the administrator\).
 * **Settings** contains the list for setting the DAC's Object \(This section is only visible to the administrator\).
+
