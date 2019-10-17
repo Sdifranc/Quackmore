@@ -24,7 +24,7 @@
 
 ## Collaboration Spaces <a id="collaboration"></a>
 
-* [Untitled](collaboration/untitled.md)
+* [Space List](collaboration/space-list.md)
 
 ## Notification
 
