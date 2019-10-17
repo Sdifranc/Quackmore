@@ -2,14 +2,27 @@
 
 * [DAC Documentation](README.md)
 
-## Functions & Definitions
+## DAC's Home <a id="home"></a>
 
-* [Accessing DAC](functions-and-definitions/accessing-dac.md)
-* [Toolbar&Vertical Toolbar](functions-and-definitions/untitled.md)
-* [User Profile](functions-and-definitions/vertical-toolbar.md)
-* [Recent Content](functions-and-definitions/recent-content.md)
+* [Accessing DAC](home/accessing-dac.md)
+* [Toolbar & Vertical Toolbar](home/untitled.md)
+* [User Profile](home/vertical-toolbar.md)
 
-## Collaboration
+## Recent Content
+
+* [Recent Content](recent-content/recent-content.md)
+
+## How to Create...
+
+* [Report](how-to-create.../report.md)
+* [Document](how-to-create.../document.md)
+* [Signal](how-to-create.../signal.md)
+* [Task](how-to-create.../task.md)
+* [Area](how-to-create.../area.md)
+* [Initiative](how-to-create.../initiative.md)
+* [Send a Message](how-to-create.../send-a-message.md)
+
+## Collaboration Spaces <a id="collaboration"></a>
 
 * [Untitled](collaboration/untitled.md)
 

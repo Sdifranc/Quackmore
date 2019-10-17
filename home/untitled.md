@@ -1,4 +1,4 @@
-# Toolbar&Vertical Toolbar
+# Toolbar & Vertical Toolbar
 
 The DAC interface consists of the following components:
 
