@@ -1,10 +1,10 @@
 # Accessing DAC
 
+## Introduction 
+
 DAC is the user interface of DAC’s Design Studio. The DAC environment is a web-based analysis environment where apps created in DAC Design Studio are published.
 
-You’ll first need to have your Design Studio administrator grant you access to DAC, and provide you with the URL from which to access your DAC environment on the web. Instructions for this are given in the Design Studio Manual.
-
-{% embed url="https://bitbucket.org/decisyon/manual/downloads/AccessingDAC.mp4" %}
+In the Home Page you can see all deployed applications in your Space and associated with your group. If just one application has been associated with a user he will directly access the pages of the app after login.
 
 
 
