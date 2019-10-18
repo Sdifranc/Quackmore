@@ -4,9 +4,9 @@ In DAC you can quickly navigate the contents that you visited \(Report, Page, Sp
 
 Below, a short video tutorial showing how to access and view Recent Content.
 
-{% embed url="https://bitbucket.org/decisyon/manual/downloads/RecentContent.mp4" %}
 
 
+{% embed url="https://www.bitbucket.org/decisyon/manual/downloads/RecentContent.mp4" %}
 
 
 

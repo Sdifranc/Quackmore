@@ -4,7 +4,9 @@
 
 In the next video tutorial they are explained which ones are the DAC interface component. 
 
-{% embed url="https://bitbucket.org/decisyon/manual/downloads/ToolbarVerticalToolbar.mp4" %}
+
+
+{% embed url="https://www.bitbucket.org/decisyon/manual/downloads/ToolbarVerticalToolbar.mp4" %}
 
 
 
