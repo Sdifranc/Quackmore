@@ -2,9 +2,15 @@
 
 ## Introduction
 
-In the next video tutorial they are explained which ones are the DAC interface component.
+In the next video tutorial they are explained which ones are the DAC interface componen.
 
-{% embed url="https://www.bitbucket.org/decisyon/manual/downloads/ToolbarVerticalToolbar.mp4" caption="" %}
+
+
+
+
+{% embed url="https://www.bitbucket.org/decisyon/manual/downloads/ToolbarVerticalToolbar.mp4" %}
+
+
 
 {% hint style="success" %}
 **Summary**

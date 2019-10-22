@@ -26,7 +26,3 @@
 
 * [Space List](collaboration/space-list.md)
 
-## Administration
-
-* [DAC Customization](administration/untitled.md)
-
