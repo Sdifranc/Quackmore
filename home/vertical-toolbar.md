@@ -4,9 +4,9 @@ DAC has an area dedicated to the user's personal profile, which includes informa
 
 The User profile in DAC makes it easier for you to run well-structured and constantly updated searches of colleagues’ expertise. This allows you to identify the users that can make a significant contribution to a project or initiative. Adding users and groups allows you to assign access privileges to individual users so they can view and work with each element of the app. It also enables you to create a collaboration team at DAC level.
 
-Please remember that all the users available in DAC are instantiated in DAC-DS. DAC inherits the user and groups privileges of the app created in the DevBox. For more information, refer to the user and group privileges available in the DAC Starter Kit and in DAC-DS Manual. 
+Please remember that all the users available in DAC are instantiated in DAC-DS. DAC inherits the user and groups privileges of the app created in the DevBox. For more information, refer to the user and group privileges available in the DAC Starter Kit and in DAC-DS Manual.
 
-We invite you to read the DAC-DS manual in order to understand how to set privileges and permission. When you build your App in DAC-DS, by default, the page privileges are set to the “Everyone” group.  This means that all the users that are bound with DAC, will be granted access to the app.
+We invite you to read the DAC-DS manual in order to understand how to set privileges and permission. When you build your App in DAC-DS, by default, the page privileges are set to the “Everyone” group. This means that all the users that are bound with DAC, will be granted access to the app.
 
 ![](http://documents.decisyon.com/tomcat/manuals/user/ge/en/web/images/img28.jpg)
 
@@ -42,9 +42,9 @@ The page consists of two separate areas:
 
 * [Profile](http://documents.decisyon.com/tomcat/manuals/user/ge/en/web/profileInformation.htm#_Informazioni_del_Profilo), includes all the data of your user profile.
 
-**Note**:    This function is not available on tablet devices.
+**Note**: This function is not available on tablet devices.
 
-* [Account Settings](http://documents.decisyon.com/tomcat/manuals/user/ge/en/web/accountSettings.htm#_Account_Options), ****includes a set of options for the customization of your account.
+* [Account Settings](http://documents.decisyon.com/tomcat/manuals/user/ge/en/web/accountSettings.htm#_Account_Options), _\*\*_includes a set of options for the customization of your account.
 
 In addition, you can [attach an image to your profile](http://documents.decisyon.com/tomcat/manuals/user/ge/en/web/profileImage.htm#_Immagine_del_Profilo_2) and view [who you are following and who you are being followed by](http://documents.decisyon.com/tomcat/manuals/user/ge/en/web/userFollAndFollOfTheUser.htm#_Users_Following_and).
 

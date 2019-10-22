@@ -5,7 +5,7 @@
 ## DAC's Home <a id="home"></a>
 
 * [Accessing DAC](home/accessing-dac.md)
-* [Toolbar & Vertical Toolbar](home/untitled.md)
+* [DAC Interface Component](home/untitled.md)
 * [User Profile](home/vertical-toolbar.md)
 
 ## Recent Content
@@ -26,7 +26,7 @@
 
 * [Space List](collaboration/space-list.md)
 
-## Notification
+## Administration
 
-* [Untitled](notification/untitled.md)
+* [DAC Customization](administration/untitled.md)
 
