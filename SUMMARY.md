@@ -12,6 +12,10 @@
 
 * [Recent Content](recent-content/recent-content.md)
 
+## Report
+
+* [Report Catalog](report/report-catalog.md)
+
 ## How to Create...
 
 * [Report](how-to-create.../report.md)
@@ -21,6 +25,7 @@
 * [Area](how-to-create.../area.md)
 * [Initiative](how-to-create.../initiative.md)
 * [Send a Message](how-to-create.../send-a-message.md)
+* [Untitled](how-to-create.../untitled.md)
 
 ## Collaboration Spaces <a id="collaboration"></a>
 

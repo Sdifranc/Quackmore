@@ -6,3 +6,7 @@ Below, a short video tutorial showing how to access and view Recent Content.
 
 {% embed url="https://www.bitbucket.org/decisyon/manual/downloads/RecentContent.mp4" caption="" %}
 
+If you choose an item among **Area, Group, Initiative, Document, Blog Post, Page, Task, Report** and **User** you can filter the list by the item selected, so you can display all the content \(i.e. all Pages\) recently visited.
+
+By choosing the item **Favorite** or **Special** you can filter the list based on the approval rating that you have expressed on the content.
+
