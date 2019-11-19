@@ -10,5 +10,9 @@ In the Home Page you can see all deployed applications in your Space and associa
 
 
 
+{% embed url="https://www.bitbucket.org/decisyon/manual/downloads/AccessingDAC.mp4" %}
+
+
+
 
 
