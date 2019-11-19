@@ -1,6 +1,6 @@
-# Report
+# Report Toolbar
 
-## Introduction
+## 
 
 The information in this section shows you how to create a new report and edit an existing report. To create a report select **Create&gt;&gt; Report** from the **Main Toolbar.**
 

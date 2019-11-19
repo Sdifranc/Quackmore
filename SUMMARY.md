@@ -14,13 +14,16 @@
 
 ## Report
 
+* [Report and Features](report/untitled/README.md)
+  * [Paging](report/untitled/paging.md)
+  * [Report Sorting](report/untitled/report-sorting.md)
+  * [Report Page By](report/untitled/report-page-by.md)
+* [Report Toolbar](report/repor-toolbar.md)
 * [Report Catalog](report/report-catalog.md)
-* [Untitled](report/untitled.md)
 * [Untitled](report/untitled-1.md)
 
 ## How to Create...
 
-* [Report](how-to-create.../report.md)
 * [Document](how-to-create.../document.md)
 * [Signal](how-to-create.../signal.md)
 * [Task](how-to-create.../task.md)

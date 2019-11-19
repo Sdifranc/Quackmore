@@ -4,7 +4,9 @@ In DAC you can quickly navigate the contents that you visited \(Report, Page, Sp
 
 Below, a short video tutorial showing how to access and view Recent Content.
 
-{% embed url="https://www.bitbucket.org/decisyon/manual/downloads/RecentContent.mp4" caption="" %}
+{% embed url="https://www.bitbucket.org/decisyon/manual/downloads/RecentContent.mp4" %}
+
+
 
 If you choose an item among **Area, Group, Initiative, Document, Blog Post, Page, Task, Report** and **User** you can filter the list by the item selected, so you can display all the content \(i.e. all Pages\) recently visited.
 
