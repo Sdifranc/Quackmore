@@ -1,12 +1,8 @@
-# Report Toolbar
-
-## 
+# Report Toolbar \(in progress\)
 
 The information in this section shows you how to create a new report and edit an existing report. To create a report select **Create&gt;&gt; Report** from the **Main Toolbar.**
 
 DAC provides a number of functions that allow you to perform a more in-depth analysis. These enhancements are available by **adding or deleting new items**, shown in the figure below:
-
-
 
 ### Report Toolbar
 

@@ -6,7 +6,7 @@
 
 * [Accessing DAC](home/accessing-dac.md)
 * [DAC Interface Component](home/untitled.md)
-* [User Profile](home/vertical-toolbar.md)
+* [User Profile \(in progress\)](home/vertical-toolbar.md)
 
 ## Recent Content
 
@@ -18,8 +18,11 @@
   * [Paging](report/untitled/paging.md)
   * [Report Sorting](report/untitled/report-sorting.md)
   * [Report Page By](report/untitled/report-page-by.md)
-* [Report Toolbar](report/repor-toolbar.md)
-* [Report Catalog](report/report-catalog.md)
+  * [Pop-up Menu](report/untitled/pop-up-menu/README.md)
+    * [Pop-up Filters](report/untitled/pop-up-menu/pop-up-filters.md)
+    * [Cache](report/untitled/pop-up-menu/cache.md)
+* [Report Toolbar \(in progress\)](report/repor-toolbar.md)
+* [Report Catalog\( in Progress\)](report/report-catalog.md)
 * [Untitled](report/untitled-1.md)
 
 ## How to Create...

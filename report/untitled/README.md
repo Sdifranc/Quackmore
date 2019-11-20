@@ -19,8 +19,8 @@ The published reports may be edited, although the edits remain at user session l
 
 The functions available on DAC can be applied using the commands from the:
 
-* **report toolbar** 
-* **pop-up menu** to the report cells
+* \*\*\*\*[**report toolbar**](../repor-toolbar.md) ****
+* \*\*\*\*[**pop-up menu**](pop-up-menu/) to the report cells
 
 Any reports modified using the functions available on DAC will be visible only to the user who made the modification, and they will be kept only until the next login, or when a restart is carried out by the administrator.
 

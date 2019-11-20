@@ -1,10 +1,6 @@
-# Report Catalog
+# Report Catalog\( in Progress\)
 
 ## **Overview**
-
-
-
-**Report Catalog** 
 
 You can open the report catalog of the application directly from the applications section on the Home Page. 
 
