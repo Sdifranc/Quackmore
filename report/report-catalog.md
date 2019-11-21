@@ -6,7 +6,7 @@ You can open the report catalog of the application directly from the application
 
 Once you open up the application, clicking the report button at the top right opens the application’s report catalog.
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 The report catalog contains all of the application’s reports, organized into folders and subfolders, in order to provide the user with a familiar interface.
 

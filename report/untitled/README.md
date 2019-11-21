@@ -8,7 +8,7 @@ Reports are created and published by the DAC administrator. You can consult a re
 
 A report typically looks like the one in the figure below:
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
   
 The report name and its folder are displayed in the top left. Selecting each folder displays its contents and directs browsing back to the catalog.
@@ -19,7 +19,7 @@ The published reports may be edited, although the edits remain at user session l
 
 The functions available on DAC can be applied using the commands from the:
 
-* \*\*\*\*[**report toolbar**](../repor-toolbar.md) ****
+* \*\*\*\*[**report toolbar**](../repor-toolbar/) ****
 * \*\*\*\*[**pop-up menu**](pop-up-menu/) to the report cells
 
 Any reports modified using the functions available on DAC will be visible only to the user who made the modification, and they will be kept only until the next login, or when a restart is carried out by the administrator.

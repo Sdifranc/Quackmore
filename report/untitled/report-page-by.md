@@ -10,7 +10,7 @@ The selection type is set by the administrator when the report is created.
 
 Buttons are available to scroll up and down the list \(see figure below\).
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 
 
