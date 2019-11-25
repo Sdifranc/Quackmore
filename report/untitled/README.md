@@ -8,7 +8,7 @@ Reports are created and published by the DAC administrator. You can consult a re
 
 A report typically looks like the one in the figure below:
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
   
 The report name and its folder are displayed in the top left. Selecting each folder displays its contents and directs browsing back to the catalog.

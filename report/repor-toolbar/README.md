@@ -1,6 +1,6 @@
 # Report Toolbar \(in progress\)
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
 The toolbar functions are subdivided into four sections.
 
@@ -28,7 +28,7 @@ Row/column lockEdit the Crosstab LayoutHierarchical drillRegrouping levels \(DRI
 
 * The commands below open the pop-ups, showing the report items \(levels, metrics, and filters\).
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 * Commands to customize the graphic shape of the report, shown below:
 
@@ -36,7 +36,7 @@ Row/column lockEdit the Crosstab LayoutHierarchical drillRegrouping levels \(DRI
 
 In the hidden form, the commands for printing and exporting \(to PDF, Excel and CSV\) remain available.
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 The publication of the reports may be configured by the administrator directly with the hidden toolbar.
 
