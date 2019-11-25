@@ -1,6 +1,6 @@
 # Groups Administration
 
-{% embed url="https://www.bitbucket.org/decisyon/manual/downloads/Create\_New\_Group.mp4" %}
+{% embed url="https://bitbucket.org/decisyon/manual/downloads/Create\_New\_Group.mp4" %}
 
 ## **Overview**
 

@@ -25,7 +25,7 @@
   * [Type of Report Presentation](report/repor-toolbar/type-of-report-presentation.md)
   * [Show Report Items](report/repor-toolbar/show-report-items.md)
 * [Report Catalog\( in Progress\)](report/report-catalog.md)
-* [Untitled](report/untitled-1.md)
+* [How to Create New Report](report/untitled-1.md)
 
 ## How to Create...
 
