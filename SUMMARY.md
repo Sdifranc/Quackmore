@@ -1,12 +1,12 @@
 # Table of contents
 
 * [DAC Documentation](README.md)
+* [Introduction](introduction.md)
 
 ## DAC's Home <a id="home"></a>
 
-* [Accessing DAC](home/accessing-dac.md)
-* [DAC Interface Component](home/untitled.md)
-* [User Profile \(in progress\)](home/vertical-toolbar.md)
+* [Welcome in DAC](home/accessing-dac.md)
+* [User Profile and Change Password](home/vertical-toolbar.md)
 
 ## Recent Content
 
