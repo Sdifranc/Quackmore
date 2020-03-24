@@ -25,7 +25,7 @@
   * [Type of Report Presentation](report/repor-toolbar/type-of-report-presentation.md)
   * [Show Report Items](report/repor-toolbar/show-report-items.md)
   * [Graph Settings](report/repor-toolbar/graph-settings.md)
-* [Report Catalog\( in Progress\)](report/report-catalog.md)
+* [Reports Catalog](report/report-catalog.md)
 * [How to Create New Report](report/untitled-1.md)
 * [How to modify Report](report/how-to-modify-report.md)
 
