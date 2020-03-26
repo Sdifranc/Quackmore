@@ -14,18 +14,16 @@
 
 ## Report
 
+* [Reports Catalog](report/report-catalog.md)
 * [Report and Features](report/untitled/README.md)
   * [Paging](report/untitled/paging.md)
-  * [Report Sorting](report/untitled/report-sorting.md)
+  * [Report Metric Sorting](report/untitled/report-sorting.md)
   * [Report Page By](report/untitled/report-page-by.md)
-  * [Pop-up Menu](report/untitled/pop-up-menu/README.md)
-    * [Pop-up Filters](report/untitled/pop-up-menu/pop-up-filters.md)
-    * [Cache](report/untitled/pop-up-menu/cache.md)
+  * [Pop-up Menu](report/untitled/pop-up-menu.md)
 * [Report Toolbar \(in progress\)](report/repor-toolbar/README.md)
   * [Type of Report Presentation](report/repor-toolbar/type-of-report-presentation.md)
   * [Show Report Items](report/repor-toolbar/show-report-items.md)
   * [Graph Settings](report/repor-toolbar/graph-settings.md)
-* [Reports Catalog](report/report-catalog.md)
 * [How to Create New Report](report/untitled-1.md)
 * [How to modify Report](report/how-to-modify-report.md)
 
