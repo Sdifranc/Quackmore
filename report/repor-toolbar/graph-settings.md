@@ -1,4 +1,4 @@
-# Graph Settings
+# Graph Settings \(in progress\)
 
 The published reports, or reports that are created by the user, may be placed in graph form by selecting the **Graph Settings** folder and from there using the commands to choose the type of graph to be applied to the report.
 

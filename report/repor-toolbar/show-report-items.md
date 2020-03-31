@@ -1,6 +1,6 @@
 # Show Report Items
 
-From the toolbar of the report \(or pop-up menu\) in the **Object** **explorer** section, there are commands to display the levels, metrics and filters of the report:
+From the toolbar of the report \(or pop-up menu\) in the **Object** **explorer** section, there are commands to display the levels, metrics and filters of the report
 
 ![](../../.gitbook/assets/image%20%287%29.png)
 

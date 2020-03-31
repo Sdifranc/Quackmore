@@ -1,6 +1,8 @@
 # How to Create New Report
 
-{% embed url="http://bitbucket.org/decisyon/manual/downloads/CreateReport.mp4" %}
+
+
+{% embed url="https://bitbucket.org/decisyon/manual/downloads/CreateReport.mp4" %}
 
 ## **Overview**
 
