@@ -24,8 +24,12 @@
   * [Show Report Items](report/repor-toolbar/show-report-items.md)
   * [Crosstab Layout](report/repor-toolbar/report-layout.md)
   * [Graph Settings \(in progress\)](report/repor-toolbar/graph-settings.md)
-* [How to Create New Report](report/untitled-1.md)
-* [How to modify Report](report/how-to-modify-report.md)
+* [Exporting Report](report/exporting-report.md)
+* [Create New Report](report/untitled-1.md)
+
+## CREATING REPORT \(EDITOR\)
+
+* [Navigation Panel](creating-report-editor/navigation-panel.md)
 
 ## How to Create...
 

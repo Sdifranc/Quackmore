@@ -1,4 +1,4 @@
-# How to Create New Report
+# Create New Report
 
 
 
