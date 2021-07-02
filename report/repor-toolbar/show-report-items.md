@@ -16,5 +16,5 @@ Each item opens a window with the list of the following elements:
 
 * **Show report filters** opens a window with the direct filters applied to the report. For each filter the name and formula are indicated.
 
-**Note:**   The commands for deleting and editing cannot be accessed on Tablet devices.
+**Note:** The commands for deleting and editing cannot be accessed on Tablet devices.
 

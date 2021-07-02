@@ -10,7 +10,6 @@ A report typically looks like the one in the figure below:
 
 ![](../../.gitbook/assets/image%20%2814%29.png)
 
-  
 The report name and its folder are displayed in the top left. Selecting each folder displays its contents and directs browsing back to the catalog.
 
 You can execute the **OLAP functions** directly in the report.
@@ -19,7 +18,7 @@ The published reports may be edited, although the edits remain at user session l
 
 The functions available on DAC can be applied using the commands from the:
 
-* \*\*\*\*[**report toolbar**](../repor-toolbar/) ****
+* \*\*\*\*[**report toolbar**](../repor-toolbar/) _\*\*_
 * \*\*\*\*[**pop-up menu**](pop-up-menu.md) to the report cells
 
 Any reports modified using the functions available on DAC will be visible only to the user who made the modification, and they will be kept only until the next login, or when a restart is carried out by the administrator.
@@ -42,6 +41,4 @@ When publishing a report, specific functionality may only appear on the web:
 * the **decoration of the metrics**
 * a **prompt** for selecting or analyzing above the report
 * a **drill-through** link to open a new page from the analyzed data
-
-
 

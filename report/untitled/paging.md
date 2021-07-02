@@ -6,5 +6,5 @@ Simply choose the number of rows and columns from the menu available for the **R
 
 ![](../../.gitbook/assets/image%20%284%29.png)
 
-The _page buttons_, represented by arrows, let you scroll through the pages that a report is subdivided into; the direction of the arrows indicates the direction of movement. The double arrow lets you move to the last or first page.
+The _page buttons_, represented by arrows, let you scroll through the pages that a report is subdivided into; the direction of the arrows indicates the direction of movement. The double arrow lets you move to the last or first page.
 

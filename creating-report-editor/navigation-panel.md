@@ -6,11 +6,5 @@ Topics
 * Composite Metrics of the Application
 * Filters Of the Application
 
-{% embed url="https://bitbucket.org/decisyon/manual/downloads/NavigationPanel.mp4" %}
-
-
-
- 
-
-
+{% embed url="https://bitbucket.org/decisyon/manual/downloads/NavigationPanel.mp4" caption="" %}
 

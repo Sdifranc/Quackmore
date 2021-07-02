@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DAC Documentation](README.md)
+* [DAC Documentation Quackmore](README.md)
 * [Introduction](introduction.md)
 
 ## DAC's Home <a id="home"></a>

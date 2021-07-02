@@ -1,14 +1,12 @@
 # Pop-up Menu
 
-{% embed url="https://bitbucket.org/decisyon/manual/downloads/PopUpMenu.mp4" %}
+{% embed url="https://bitbucket.org/decisyon/manual/downloads/PopUpMenu.mp4" caption="" %}
 
- Topics of Study:
+Topics of Study:
 
 * Report Toolbar
 * Table Layout Style
 * Olap Function
 * Signal on Report
 * Custom Total
-
- 
 

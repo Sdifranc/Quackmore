@@ -8,11 +8,5 @@ In this video tutorial the topics covered are:
 * Users Following and Follower of the Users
 * Change Password
 
-{% embed url="https://bitbucket.org/decisyon/manual/downloads/UserAccount-Password.mp4" %}
-
-
-
-
-
-
+{% embed url="https://bitbucket.org/decisyon/manual/downloads/UserAccount-Password.mp4" caption="" %}
 

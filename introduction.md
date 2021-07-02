@@ -13,7 +13,6 @@ This manual provides you with all essential instructions on how to get started u
 In order to access DAC, it is necessary to download the DAC DevBox. All the installation information is available in the DAC - Design Studio manual or in the [starter kit](http://decisyon.com/docs/Decisyon_App_Composer_Starter_Kit.pdf). After you download the DAC DevBox to your local machine, you will have access to the following:‌
 
 1. **Design Studio \(DS\):** A local development environment where you can create, edit, test and deploy applications to Predix.‌
-
 2. **DAC:** Cloud environment that can be executed both locally and/or in the Predix cloud, and where users can perform analysis and collaborate on the deployed application.‌
 
 Before accessing DAC, we strongly suggest you follow the instructions in the [**starter kit**](http://decisyon.com/docs/Decisyon_App_Composer_Starter_Kit.pdf) guide that will allow you to push DAC to the Predix cloud and get all the references for the web access.‌
@@ -36,6 +35,6 @@ Modify all published reports, saving a new copy to his own folders, without modi
 
 Create and manage social spaces and groups and the existing initiatives.‌
 
-Apply all the native collaboration capabilities like discussions and tasks.[NextUntitled](https://app.gitbook.com/@silvia-difrancesco/s/dac-doc/~/drafts/-M2sQWspQeH4NX2_dCu8/untitled)[  
+Apply all the native collaboration capabilities like discussions and tasks.[NextUntitled](https://app.gitbook.com/@silvia-difrancesco/s/dac-doc/~/drafts/-M2sQWspQeH4NX2_dCu8/untitled)[    
 ](https://github.com/Sdifranc/DAC-Documentation/blob/master/README.md)
 
